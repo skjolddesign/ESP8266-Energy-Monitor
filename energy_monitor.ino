@@ -4,7 +4,11 @@
  *  Get updated code at https://github.com/skjolddesign/ESP8266-Energy-Monitor
  *  Sends data to Thingsboard Dashboard https://thingsboard.io.
  *  Sign up for a Free Live Demo there.
- *    
+ *  
+ * Project:
+ *  https://github.com/skjolddesign/ESP8266-Energy-Monitor
+ *  https://www.instructables.com/id/Energy-Monitor-in-15-Minutes
+ *      
  * Energy monitor parts:
  * -ESP8266 with OLED.
  * -LDR
